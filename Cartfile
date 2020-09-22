@@ -1,2 +1,2 @@
-github "tattn/Alamofire" "hotfix-xcode12"
-github "tristanhimmelman/ObjectMapper" ~> 4.1
+github "Alamofire/Alamofire" "master"
+github "tristanhimmelman/ObjectMapper" ~> 4.2
